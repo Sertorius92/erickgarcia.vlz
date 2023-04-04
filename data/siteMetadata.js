@@ -3,7 +3,7 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
   title: 'Erick Garcia Velez',
-  author: 'Tails Azimuth',
+  author: 'Erick Garcia Velez',
   headerTitle: 'TailwindBlog',
   description: 'A blog created with Next.js and Tailwind.css',
   language: 'en-us',
